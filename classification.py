@@ -1,8 +1,4 @@
-"""
-# UW Data Science
-# Please run code snippets one at a time to understand what is happening.
-# Snippet blocks are sectioned off with a line of ####################
-"""
+
 
 import numpy as np
 from sklearn.linear_model import LogisticRegression
